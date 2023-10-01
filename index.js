@@ -56,3 +56,4 @@ if (!longestWord) {
 //5. sentence with numbers e.g "The quick brown 42 fox"
 //6. multiple words with maximum length e.g "aaaa bbbb cccc"
 // 7.sentence with punctuations e.g ""Longest word in a sentence, with some punctuations!""
+//8.what if two words of same length and same no of vowels exists in the input sentence?
